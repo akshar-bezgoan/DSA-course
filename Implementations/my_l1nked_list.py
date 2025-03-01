@@ -1,4 +1,4 @@
-#Our first linked list DS
+#Our first singly linked list DS
 from my_array import Array
 """
 myLinkedList = {
