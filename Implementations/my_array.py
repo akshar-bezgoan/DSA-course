@@ -8,10 +8,10 @@ class Array():
     def get(self, index): #O(1)
         return self.data[index]    
     
-    def push(self, item): #O(1)
+    def append(self, item): #O(1)
         self.data[self.length] = item
         self.length += 1
-        return self.length
+        return self
     
     def pop(self): #O(1)
         lastItem = self.data[self.length-1]
