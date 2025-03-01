@@ -1,4 +1,4 @@
-#Doubly Linked List
+#My first doubly Linked List implementation
 
 from my_array import Array
 
