@@ -2,10 +2,6 @@
 #remove() function is a python translation of Andrei's JavaScript function
 #remove() function is not my work
 
-#2/3/25 Added BFS and BFS recursive functions to binary search tree class
-#Added DFS InOrder, PreOrder and PostOrder to binary search tree class
-#Added validate BST function
-
 import json, math
 
 
