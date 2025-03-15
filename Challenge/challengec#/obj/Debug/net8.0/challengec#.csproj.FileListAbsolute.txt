@@ -1,0 +1,15 @@
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/bin/Debug/net8.0/challengec#
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/bin/Debug/net8.0/challengec#.deps.json
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/bin/Debug/net8.0/challengec#.runtimeconfig.json
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/bin/Debug/net8.0/challengec#.dll
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/bin/Debug/net8.0/challengec#.pdb
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.GeneratedMSBuildEditorConfig.editorconfig
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.AssemblyInfoInputs.cache
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.AssemblyInfo.cs
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.csproj.CoreCompileInputs.cache
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.sourcelink.json
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.dll
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/refint/challengec#.dll
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.pdb
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/challengec#.genruntimeconfig.cache
+/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/Debug/net8.0/ref/challengec#.dll
