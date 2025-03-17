@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challengec#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5089c1e16dd65eb511e874c35ebf765d1e6cf4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f5012ecd11bd1eecb7686d4c1e44ed8ff3bc375")]
 [assembly: System.Reflection.AssemblyProductAttribute("challengec#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challengec#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
