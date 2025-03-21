@@ -4,8 +4,4 @@ Write a function which takes two people as parameters and returns true if they a
 The process must run and complete in 10ms
 
 Update:
-<<<<<<< HEAD
-It is not possible for my computer to run and execute C# or Python files using 3,000,000,000 people with up to 1,000 friends as that is ~11Tb of data in the file itself. Instead I am using 1,000 max people with 25 friends each (25,000 numbers + 12,500 spaces in the data).
-=======
 It is not possible for my computer to run and execute C# or Python files using 3,000,000,000 people with up to 1,000 friends as that is terabytes of data in the file itself. Instead I am using 1,000 max people with 25 friends each (25,000 numbers + 12,500 spaces in the data).
->>>>>>> e266c64decc5724f5dd9d1964a49de18ad667dc7
