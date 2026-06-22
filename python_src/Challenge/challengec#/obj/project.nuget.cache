@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ghuy0446oI7RqTgtMrkvpTW6Vi25w6m47uRy3VAvRi0wovCBUweECfLl6xXRcPQWZU1MtxL5cWrmr/QDzaExbA==",
+  "dgSpecHash": "/bxJNKSsILc=",
   "success": true,
-  "projectFilePath": "/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/challengec#.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/aksharbezgoan/Documents/DSA-course/python_src/Challenge/challengec#/challengec#.csproj",
+  "expectedPackageFiles": [
+    "/Users/aksharbezgoan/.nuget/packages/microsoft.netcore.app.ref/8.0.24/microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "/Users/aksharbezgoan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.24/microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "/Users/aksharbezgoan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.24/microsoft.netcore.app.host.osx-arm64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }

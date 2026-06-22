@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/akkibez/.nuget/packages/": {}
+    "/Users/aksharbezgoan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/challengec#.csproj",
+      "projectUniqueName": "/Users/aksharbezgoan/Documents/DSA-course/python_src/Challenge/challengec#/challengec#.csproj",
       "projectName": "challengec#",
-      "projectPath": "/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/challengec#.csproj",
-      "packagesPath": "/home/akkibez/.nuget/packages/",
-      "outputPath": "/home/akkibez/Documents/Computing/DSA/Challenge/challengec#/obj/",
+      "projectPath": "/Users/aksharbezgoan/Documents/DSA-course/python_src/Challenge/challengec#/challengec#.csproj",
+      "packagesPath": "/Users/aksharbezgoan/.nuget/packages/",
+      "outputPath": "/Users/aksharbezgoan/Documents/DSA-course/python_src/Challenge/challengec#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/akkibez/.nuget/NuGet/NuGet.Config"
+        "/Users/aksharbezgoan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -54,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
